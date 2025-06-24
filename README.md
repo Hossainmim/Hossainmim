@@ -1,4 +1,4 @@
-<h1 align="center">🌍 Mim Bin Hossain</h1>
+<h1 align="center">Mim Bin Hossain</h1>
 <p align="center">
   <i>“Technology is not just lines of code — it's the language we use to write justice, equity, and progress into reality.”</i>
 </p>
