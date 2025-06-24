@@ -65,10 +65,10 @@ Cisco Packet Tracer · JUnit · LaTeX · AutoCAD · Firebase
 
 ---
 
-### 🔐 PKI-Secured Web System  
-**Tech:** `OpenSSL`, `Ubuntu`, `Apache`, `DNS`  
-🔒 Implemented Public Key Infrastructure for secure digital services  
-[🔗 View Project](https://github.com/Hossainmim/SSL-PKI-Project)
+### 🔐 Securing a Networked System with PKI  
+Configured SSL certificates and DNS settings to enable secure web access using PKI (Public Key Infrastructure).  
+🛠️ OpenSSL · Apache · Ubuntu · DNS · Windows Server  
+[📄 View Mini Project PDF](https://github.com/Hossainmim/Course_CSE487_Cyber_Security__Ethics/blob/main/Mini%20Project-1.pdf)
 
 ---
 
