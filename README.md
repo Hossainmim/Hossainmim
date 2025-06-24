@@ -48,7 +48,7 @@ Cisco Packet Tracer · JUnit · LaTeX · AutoCAD · Firebase
 ✨ Disease prediction, bed booking, secure chat, digital prescription  
 [🔗 View Project](https://github.com/Hossainmim/Healthcare-Insights-for-Real-Time-Healthcare-Platform)  
 [🚀 Live Demo](https://your-healthinsight-demo-link.com)  
-![HealthInsight Screenshot](https://raw.githubusercontent.com/Hossainmim/Healthcare-Insights-for-Real-Time-Healthcare-Platform/main/preview.png)
+![HealthInsight Screenshot]([https://raw.githubusercontent.com/Hossainmim/Healthcare-Insights-for-Real-Time-Healthcare-Platform/main/preview.png](https://github.com/Hossainmim/HealthInsight-RealTime-ML/blob/main/images/Front%20Page.png))
 
 ---
 
