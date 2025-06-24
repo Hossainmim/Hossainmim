@@ -1,114 +1,108 @@
 <h1 align="center">🌍 Mim Bin Hossain</h1>
-<p align="center">
-  <i>“Technology is not just lines of code — it's the language we use to write justice, equity, and progress into reality.”</i>
-</p>
+<p align="center"><i>“I build systems that don't just work, but work for people.”</i></p>
 
 <p align="center">
-  🎓 CSE Graduate | 🌱 Software for Social Good | 💡 AI for Humanity <br>
+  🎓 Final Year CSE Student | 🌱 Software for Social Good | 💡 AI for Humanity <br>
   📍 Dhaka, Bangladesh | 👨‍🏫 UTA at East West University | 💻 Open Source Advocate
 </p>
 
 <p align="center">
-  <a href="https://github.com/Hossainmim"><img src="https://img.shields.io/github/followers/Hossainmim?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/mim-bin-hossain"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
-  <a href="mailto:hossainmim174@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square" alt="Email"></a>
+  <a href="https://github.com/Hossainmim"><img src="https://img.shields.io/github/followers/Hossainmim?label=GitHub&style=social"></a>
+  <a href="https://linkedin.com/in/mim-bin-hossain"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="mailto:hossainmim174@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
 </p>
 
 ---
 
-## 👁️‍🗨️ Vision & Purpose
+## 🚀 Skills & Tech Stack
 
-> “I build systems not just to automate — but to amplify justice, dignity, and opportunity for all.”
-
-- Advocate for **AI in healthcare**, **accessible education**, and **transparent systems**  
-- Committed to **ethical development**, **data responsibility**, and **community-driven innovation**
-
----
-
-## 🚀 Skills & Tools
-
-### 💻 Languages  
-C · C++ · Java · Python · HTML · CSS · JavaScript · PHP · XML
-
-### 📊 ML/Data Analysis  
-Scikit-learn · Pandas · NumPy · Seaborn · Matplotlib
-
-### 🌐 Web & Backend  
-Flask · Bootstrap · MySQL · Git · React (learning)
-
-### 🧰 Additional Tools  
-Cisco Packet Tracer · JUnit · LaTeX · AutoCAD · Firebase
+**Languages:** C · C++ · Java · Python · HTML · CSS · JavaScript · PHP  
+**Libraries:** Pandas · NumPy · Scikit-learn · Seaborn · Matplotlib  
+**Tools:** Flask · MySQL · Bootstrap · Apache · JUnit · Git · Cisco Packet Tracer  
+**Platforms:** Ubuntu · Windows Server · Eclipse IDE · Firebase
 
 ---
 
-## 🌟 Flagship Projects
+## 🌟 Featured Projects
 
-### 🏥 HealthInsight — A Real-Time AI-Powered Healthcare Platform  
-**Tech:** `Flask`, `PHP`, `Bootstrap`, `MySQL`, `JS`  
-✨ Designed for real-world healthcare needs with patient-centric features:  
-→ Disease prediction, doctor chat, secure prescription, & emergency booking  
-[🔗 View Project](https://github.com/Hossainmim/Healthcare-Insights-for-Real-Time-Healthcare-Platform)
-
----
-
-### 🚗 Vehicle Price Prediction with ML  
-**Tech:** `Python`, `Sklearn`, `Pandas`, `Seaborn`  
-📈 Predicted car prices using regression & advanced feature tuning  
-[🔗 View Project](https://github.com/Hossainmim/Enhancing-Vehicle-Price-Prediction-with-Machine-Learning-Models-An-Analytical-Approach)
+### 🏥 HealthInsight — AI-Powered Healthcare Platform  
+Real-time disease prediction, hospital bed booking, and patient-doctor chat system with secure login and digital prescriptions.  
+🛠️ Flask · MySQL · JS · PHP · Bootstrap  
+[🔗 GitHub](https://github.com/Hossainmim/Healthcare-Insights-for-Real-Time-Healthcare-Platform)
 
 ---
 
-### 🏦 ML-Based Bank Churn Analysis  
-**Tech:** `Python`, `ML`, `Pandas`  
-💼 Helped banks predict churn probability to support sustainable business  
-[🔗 View Project](https://github.com/Hossainmim/ML-Based-Bank-Churn-Analysis-for-Improved-Customer-Retention)
+### 🚗 Vehicle Price Prediction  
+ML regression model to estimate used vehicle prices using features like brand, mileage, and fuel type.  
+🛠️ Python · Scikit-learn · Pandas · Matplotlib  
+[🔗 GitHub](https://github.com/Hossainmim/Enhancing-Vehicle-Price-Prediction-with-Machine-Learning-Models-An-Analytical-Approach)
 
 ---
 
-### 🔐 PKI-Secured Web System  
-**Tech:** `OpenSSL`, `Ubuntu`, `Apache`, `DNS`  
-🔒 Implemented Public Key Infrastructure for secure digital services  
-[🔗 View Project](https://github.com/Hossainmim/SSL-PKI-Project)
+### 🏦 Bank Churn Analysis  
+ML model for identifying customers at risk of churn, to enhance retention strategies.  
+🛠️ Python · Pandas · Seaborn · Sklearn  
+[🔗 GitHub](https://github.com/Hossainmim/ML-Based-Bank-Churn-Analysis-for-Improved-Customer-Retention)
 
 ---
 
-### 🍽️ Java Restaurant System (Test-Driven)  
-**Tech:** `Java`, `JUnit`, `Eclipse`  
-🧪 Focused on edge cases, input validation, and fail-safe transactions  
-[🔗 View Project](https://github.com/Hossainmim/Software_Testing_Restaurant_Management_System)
+### 🔐 Securing a Networked System with PKI  
+SSL certificate-based access control implementation with DNS, firewall rules, and Ubuntu + Windows server setup.  
+🛠️ OpenSSL · Apache · Ubuntu · DNS  
+[🔗 GitHub](https://github.com/Hossainmim/SSL-PKI-Project)
 
 ---
 
-## 📚 Academic Publications
-
-- 🧠 **Vehicle Price Prediction using ML Models** — *ECCE 2025*  
-- 🔍 **Bank Churn Analysis using ML** — *ICDMIS 2024*
-
----
-
-## 👨‍🏫 Experience
-
-**Undergraduate Teaching Assistant**  
-*East West University*  
-🤝 Assisted 100+ students in lab sessions, helped debug code, and mentored on final-year projects.
+### 🍽️ Restaurant Management System – Unit Tested  
+20-class Java system tested with JUnit4 and JUnit5, covering billing, reservation, inventory & edge case handling.  
+🛠️ Java · JUnit · Eclipse IDE  
+[🔗 GitHub](https://github.com/Hossainmim/Software_Testing_Restaurant_Management_System)
 
 ---
 
-## 🌍 Belief
-
-> _"If a line of code can make one life better, it's worth writing a thousand more."_  
-> _— Mim Bin Hossain_
+### 🌐 Web Programming Course Projects  
+Multiple mini-projects involving forms, user auth, backend CRUD, and responsive design.  
+🛠️ HTML · CSS · PHP · MySQL · Bootstrap  
+[🔗 GitHub](https://github.com/Hossainmim/CSE479_Web_Programming)
 
 ---
 
-## 📬 Let's Connect
+### 🌐 Network Design & Simulation  
+Built subnet-based networks using OSPF, EIGRP, BGP; implemented VLAN, DNS, DHCP, and client-server architecture.  
+🛠️ Cisco Packet Tracer  
+[🔗 GitHub](https://github.com/Hossainmim/Computer_Networking_Design_Projects)
 
-- ✉️ Email: [hossainmim174@gmail.com](mailto:hossainmim174@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/mim-bin-hossain](https://linkedin.com/in/mim-bin-hossain)  
-- 🔗 GitHub: [github.com/Hossainmim](https://github.com/Hossainmim)
+---
+
+### 🛡️ Cybersecurity Mini Project  
+Submitted as part of CSE487 Cyber Security & Ethics course — focused on ethical hacking and basic network protection strategies.  
+[🔗 View Project](https://github.com/Hossainmim/Course_CSE487_Cyber_Security__Ethics/blob/main/Mini%20Project-1.pdf)
+
+---
+
+## 📝 Publications
+
+- ECCE 2025: *Enhancing Vehicle Price Prediction with ML Models*  
+- ICDMIS 2024: *Bank Churn Prediction using Machine Learning*
+
+---
+
+## 👨‍🏫 Teaching Assistantship
+
+**Undergraduate Teaching Assistant (Summer 2024 – Spring 2025)**  
+*CSE Dept, East West University*  
+Assisted in labs, guided debugging sessions, and mentored peers on real-world projects.
+
+---
+
+## 📬 Let’s Connect
+
+- 📧 Email: [hossainmim174@gmail.com](mailto:hossainmim174@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/mim-bin-hossain](https://linkedin.com/in/mim-bin-hossain)  
+- 💻 GitHub: [github.com/Hossainmim](https://github.com/Hossainmim)
 
 ---
 
 <p align="center">
-🕊️ <i>May the power of technology always serve the powerless.</i>
+  🕊️ <i>“Code is my voice. I use it to speak for equity, accessibility, and opportunity.”</i>
 </p>
