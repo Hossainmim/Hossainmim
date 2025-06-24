@@ -43,87 +43,93 @@ Cisco Packet Tracer · JUnit · LaTeX · AutoCAD · Firebase
 
 ## 🌟 Flagship Projects
 
-### 🏥 HealthInsight — A Real-Time AI-Powered Healthcare Platform  
-**Tech:** `Flask`, `PHP`, `Bootstrap`, `MySQL`, `JS`  
-✨ Designed for real-world healthcare needs with patient-centric features:  
-→ Disease prediction, doctor chat, secure prescription, & emergency booking  
-[🔗 View Project](https://github.com/Hossainmim/Healthcare-Insights-for-Real-Time-Healthcare-Platform)
+### 🏥 HealthInsight — Real-Time AI-Powered Healthcare Platform  
+**Tech:** Flask · PHP · Bootstrap · MySQL · JS  
+✨ Disease prediction, bed booking, secure chat, digital prescription  
+[🔗 View Project](https://github.com/Hossainmim/Healthcare-Insights-for-Real-Time-Healthcare-Platform)  
+[🚀 Live Demo](https://your-healthinsight-demo-link.com)  
+![HealthInsight Screenshot](https://raw.githubusercontent.com/Hossainmim/Healthcare-Insights-for-Real-Time-Healthcare-Platform/main/preview.png)
 
 ---
 
-### 🚗 Vehicle Price Prediction with ML  
-**Tech:** `Python`, `Sklearn`, `Pandas`, `Seaborn`  
-📈 Predicted car prices using regression & advanced feature tuning  
-[🔗 View Project](https://github.com/Hossainmim/Enhancing-Vehicle-Price-Prediction-with-Machine-Learning-Models-An-Analytical-Approach)
+### 🚗 Vehicle Price Prediction  
+**Tech:** Python · Sklearn · Pandas · Seaborn  
+📈 Predict used car prices using regression & feature engineering  
+[🔗 View Project](https://github.com/Hossainmim/Enhancing-Vehicle-Price-Prediction-with-Machine-Learning-Models-An-Analytical-Approach)  
+![Vehicle Price Prediction](https://your-image-link.com)
 
 ---
 
-### 🏦 ML-Based Bank Churn Analysis  
-**Tech:** `Python`, `ML`, `Pandas`  
-💼 Helped banks predict churn probability to support sustainable business  
+### 🏦 Bank Churn Analysis  
+**Tech:** Python · Pandas · ML  
+💼 Predict churned customers using profile and transaction data  
 [🔗 View Project](https://github.com/Hossainmim/ML-Based-Bank-Churn-Analysis-for-Improved-Customer-Retention)
 
 ---
 
-### 🔐 Securing a Networked System with PKI  
-Configured SSL certificates and DNS settings to enable secure web access using PKI (Public Key Infrastructure).  
-🛠️ OpenSSL · Apache · Ubuntu · DNS · Windows Server  
-[📄 View Mini Project PDF](https://github.com/Hossainmim/Course_CSE487_Cyber_Security__Ethics/blob/main/Mini%20Project-1.pdf)
+### 🔐 PKI-Secured Web System  
+**Tech:** OpenSSL · Apache · DNS · Ubuntu · Windows Server  
+🔒 Secure SSL-based setup using public key infrastructure  
+[📄 Mini Project PDF](https://github.com/Hossainmim/Course_CSE487_Cyber_Security__Ethics/blob/main/Mini%20Project-1.pdf)
 
 ---
 
-### 🍽️ Java Restaurant System (Test-Driven)  
-**Tech:** `Java`, `JUnit`, `Eclipse`  
-🧪 Focused on edge cases, input validation, and fail-safe transactions  
+### 🍽️ Java Restaurant Management (Tested with JUnit)  
+**Tech:** Java · JUnit4 · JUnit5 · Eclipse  
+🧪 Fully tested classes for billing, reservation & payment systems  
 [🔗 View Project](https://github.com/Hossainmim/Software_Testing_Restaurant_Management_System)
 
 ---
 
-### 🌐 Web Programming Course Projects  
-Multiple mini-projects involving forms, user auth, backend CRUD, and responsive design.  
-🛠️ HTML · CSS · PHP · MySQL · Bootstrap  
-[🔗 GitHub](https://github.com/Hossainmim/CSE479_Web_Programming)
+### 🌐 Web Programming Projects  
+**Tech:** HTML · CSS · PHP · MySQL · Bootstrap  
+🧪 Forms, CRUD, Auth, Dynamic Pages  
+[🔗 View Project](https://github.com/Hossainmim/CSE479_Web_Programming)
 
 ---
 
-### 🌐 Network Design & Simulation  
-Built subnet-based networks using OSPF, EIGRP, BGP; implemented VLAN, DNS, DHCP, and client-server architecture.  
-🛠️ Cisco Packet Tracer  
-[🔗 GitHub](https://github.com/Hossainmim/Computer_Networking_Design_Projects)
+### 📡 Network Design Projects  
+**Tech:** Cisco Packet Tracer  
+🔗 OSPF, VLAN, BGP, DNS, DHCP, Web Server simulations  
+[🔗 View Project](https://github.com/Hossainmim/Computer_Networking_Design_Projects)
 
 ---
-
 
 ## 📚 Academic Publications
 
-- 🧠 **Vehicle Price Prediction using ML Models** — *ECCE 2025*  
-- 🔍 **Bank Churn Analysis using ML** — *ICDMIS 2024*
+- **Vehicle Price Prediction using ML Models** — *ECCE 2025*  
+- **Bank Churn Prediction using ML** — *ICDMIS 2024*
 
 ---
 
 ## 👨‍🏫 Experience
 
-**Undergraduate Teaching Assistant**  
-*East West University*  
-🤝 Assisted 350+ students in lab sessions, helped debug code, and mentored on final-year projects.
+**Undergraduate Teaching Assistant (UTA)**  
+*Department of CSE, East West University*  
+💬 Helped 350+ students in lab sessions, debugging, and final project reviews.
 
 ---
 
-## 🌍 Belief
+## 📈 GitHub Stats & Languages
 
-> _"If a line of code can make one life better, it's worth writing a thousand more."_  
-> _— Mim Bin Hossain_
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hossainmim&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossainmim&layout=compact&theme=tokyonight" width="47%" />
+</p>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hossainmim.Hossainmim)
 
 ---
 
 ## 📬 Let's Connect
 
-- ✉️ Email: [hossainmim174@gmail.com](mailto:hossainmim174@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/mim-bin-hossain](https://linkedin.com/in/mim-bin-hossain)  
-- 🔗 GitHub: [github.com/Hossainmim](https://github.com/Hossainmim)
+[![Email](https://img.shields.io/badge/Email-hossainmim174@gmail.com-red?style=flat&logo=gmail)](mailto:hossainmim174@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mim-bin-hossain)
+[![GitHub](https://img.shields.io/badge/GitHub-Hossainmim-181717?style=flat&logo=github)](https://github.com/Hossainmim)
 
 ---
 
 <p align="center">
-🕊️ <i>May the power of technology always serve the powerless.</i>
+  🕊️ <i>May the power of technology always serve the powerless.</i><br>
+  <strong>— Mim Bin Hossain</strong>
 </p>
