@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  🎓 Final Year CSE Student | 🌱 Software for Social Good | 💡 AI for Humanity <br>
+  🎓 CSE Graduate | 🌱 Software for Social Good | 💡 AI for Humanity <br>
   📍 Dhaka, Bangladesh | 👨‍🏫 UTA at East West University | 💻 Open Source Advocate
 </p>
 
