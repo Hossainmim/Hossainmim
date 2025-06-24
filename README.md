@@ -47,7 +47,6 @@ Cisco Packet Tracer · JUnit · LaTeX · AutoCAD · Firebase
 **Tech:** Flask · PHP · Bootstrap · MySQL · JavaScript  
 ✨ Features: Disease prediction, bed booking, secure chat, e-prescription  
 [🔗 View Project](https://github.com/Hossainmim/HealthInsight-ML)  
-🌐 *Live demo coming soon*  
 ![HealthInsight Screenshot](https://raw.githubusercontent.com/Hossainmim/HealthInsight-ML/main/images/FrontPage.png)
 
 ---
