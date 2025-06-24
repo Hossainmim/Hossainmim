@@ -43,12 +43,12 @@ Cisco Packet Tracer · JUnit · LaTeX · AutoCAD · Firebase
 
 ## 🌟 Flagship Projects
 
-### 🏥 HealthInsight — Real-Time AI-Powered Healthcare Platform  
-**Tech:** Flask · PHP · Bootstrap · MySQL · JS  
-✨ Disease prediction, bed booking, secure chat, digital prescription  
-[🔗 View Project](https://github.com/Hossainmim/Healthcare-Insights-for-Real-Time-Healthcare-Platform)  
-[🚀 Live Demo](https://your-healthinsight-demo-link.com)  
-![HealthInsight Screenshot](images/Front Page.png)
+### 🏥 HealthInsight: AI-Powered Real-Time Healthcare Platform  
+**Tech:** Flask · PHP · Bootstrap · MySQL · JavaScript  
+✨ Features: Disease prediction, bed booking, secure chat, e-prescription  
+[🔗 View Project](https://github.com/Hossainmim/HealthInsight-ML)  
+🌐 *Live demo coming soon*  
+![HealthInsight Screenshot](https://raw.githubusercontent.com/Hossainmim/HealthInsight-ML/main/images/FrontPage.png)
 
 ---
 
